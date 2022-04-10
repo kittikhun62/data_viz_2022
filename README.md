@@ -10,7 +10,8 @@ Basic Programming for data Science and Data Visualization : กิตติค�
 [ไฟล์นำเสนอ](https://www.canva.com/design/DAE8jQ1mMq8/FhvW6_vbBcgu-unJF5CV5g/edit?utm_content=DAE8jQ1mMq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton&fbclid=IwAR1RyF-VVnky1KXe_t5ZNnHWgY_AwOlH_dKoT2W71MVH8S_HrCe_eJR3oT0)
 
 
-*Final Exam counselor Group
+##Final Exam counselor Group
 
-Github
-Dashbord
+[Github](https://github.com/kittikhun62/data_viz_2022/blob/main/Final_Exam.ipynb)
+
+[Dashbord](https://datastudio.google.com/u/0/reporting/e29790e4-be71-4996-9b93-7ddd89b816af/page/XdCqC?fbclid=IwAR09rUYSOkR9g_4_QvVgjuxWvgvKnV4EFWzyCTHEGkK04ngDwRbTdvCVy3w)
